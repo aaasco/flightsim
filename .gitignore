@@ -62,4 +62,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Ignorer le fichier spécifique UnityPlayer.dll
-[Bb]uild/**/UnityPlayer.dll
+Build/UnityPlayer.dll
